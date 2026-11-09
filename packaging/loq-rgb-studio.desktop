@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=LOQ RGB Studio
+GenericName=RGB Keyboard Controller
+Comment=Four-zone RGB profile studio for Lenovo LOQ keyboards
+Exec=loq-rgb-studio
+Icon=loq-rgb-studio
+Terminal=false
+Categories=Utility;Settings;HardwareSettings;
+Keywords=lenovo;loq;rgb;keyboard;lighting;
+StartupWMClass=loq-rgb-studio

@@ -1,0 +1,13 @@
+
+build/
+*.o
+*.a
+*.so
+*.out
+*.swp
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+legionaura
+project_status.txt
